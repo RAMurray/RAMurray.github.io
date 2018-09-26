@@ -21,6 +21,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 50px;
+  background: url('../img/portfolio/bgcode.jpg') center center fixed;
 }
 
 
